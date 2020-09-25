@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=d9nchik&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/d9nchik)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d9nchik)](https://github.com/d9nchik)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d9nchik&layout=compact)](https://github.com/d9nchik)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-d9nich-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/d9nich/)
