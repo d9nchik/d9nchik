@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d9nchik&layout=compact)](https://github.com/d9nchik)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-d9nich-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/d9nich/)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6EP3IX)
