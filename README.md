@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with DevOps stuff.
-- 💬 Ask me about Java, Python, Golang, JavaScript, Kotlin, TypeScript, C++
+- 💬 Ask me about Java, Python, Golang, TypeScript
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/d9nich/" target="_blank">LinkedIn</a>
 - 📕 My personal tech blog on [Medium](https://d9nich.tech/)
 - 😄 Pronouns: [denich]
